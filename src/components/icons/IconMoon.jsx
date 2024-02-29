@@ -1,4 +1,4 @@
-const MoonIcon = ({ fill = "#fff" }) => {
+const IconMoon = ({ fill = "#fff" }) => {
   return (
     <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill={fill}>
       <path
@@ -9,4 +9,4 @@ const MoonIcon = ({ fill = "#fff" }) => {
   );
 };
 
-export default MoonIcon;
+export default IconMoon;
